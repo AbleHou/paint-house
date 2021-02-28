@@ -1,0 +1,8 @@
+[Client]
+    dBName = "paint_house_db"
+    host = "127.0.0.1"
+    port = "3306"
+	dbCharset = "utf8mb4,utf8"
+	active = 20
+	idle = 10
+	idleTimeout ="4h"
